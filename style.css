@@ -1,0 +1,72 @@
+*{
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #444;
+  height: 100px;
+  
+}
+
+nav {
+  width: 960px;
+  margin: auto;
+}
+
+nav li {
+  list-style-type: none;
+  float: right;
+  margin: 40px 10px 0px 0px;
+}
+
+main {
+  width: 960px;
+  margin: auto;
+}
+
+.spacer {
+  width: 960px;
+  margin-top: 1px;
+}
+
+#printer {
+  float: right;
+  margin: 40px 10px 40px 0px;
+}
+
+#toparticle{
+  float: left;
+}
+
+#hometext {
+  text-indent: 40px;
+}
+
+#ingredients label {
+  color: limegreen;
+  margin: 0px 80px 5px 80px;
+  display: inline-block;
+}
+
+#pic {
+  float: left;
+  margin-right:  20px;
+}
+
+#ingredientlist {
+  background-image: url(https://placehold.it/960x500/111);
+}
+
+#share {
+  float: right;
+  margin: 10px;
+}
+
+div { 
+  margin: auto;
+  width: 960;
+}
+
+#slogo {
+  text-align: center;
+}
